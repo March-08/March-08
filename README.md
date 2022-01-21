@@ -1,4 +1,4 @@
-### <div align="center">I'm Marcello, a Young Trainee at the European Space Agency👨‍💻 aspiring Machine Learning Engineer🚀</div>  
+### <div align="center">I'm Marcello, a Young Trainee at the European Space Agency👨‍💻 aspiring Deep Learning Engineer🚀</div>  
   
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
