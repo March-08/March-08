@@ -11,7 +11,7 @@
 
 - ❓ Ask me about anything related to space and AI tech  
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: My [digital CV](https://march-08.github.io/digital-cv/) is hosted by github  
   
 
 <br/>  
