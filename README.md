@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my [Machine Learning Journey](https://github.com/March-08/Machine-Learning-Journey)  
   
-- 🌱 I’m currently attending a Master in Deep Learning enrolled by Deep Learning Italia Academy Italia  and I won a scolarhsip for the Pi School - School of AI in Rome!
+- 🌱 I’m currently working as a freelencer Machine Learning Scientist!
 
 - ❓ Ask me about anything related to space and AI tech  
 
